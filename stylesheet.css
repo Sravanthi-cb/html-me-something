@@ -87,6 +87,11 @@ a:hover {
 	color: #ffffff;
 }
 
+img {
+	opacity:0.4;
+	filter: alpha(opacity=40);
+}
+
 #footer p {
 	position: relative;
 	padding-top: 15px;
